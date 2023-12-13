@@ -1,0 +1,8 @@
+# web
+fastapi
+uvicorn
+pydantic
+haversine
+
+# db
+SQLAlchemy
